@@ -1,18 +1,18 @@
-# 英伟达 B300 服务器技术文档
+# 汉兴科技专注于高端 AI 算力供应链领域，是全球化高端算力综合服务商。
 
-欢迎使用我们提供的英伟达服务器服务，专注于高端 AI 算力供应链领域的全球化综合服务商
-<img width="789" height="72" alt="图片" src="https://github.com/user-attachments/assets/f2d48834-fb94-4546-8faa-2e66981153d6" />
+欢迎使用我们提供的英伟达服务器服务。汉兴科技是专注于高端 AI 算力供应链领域的全球化综合服务商，聚焦企业级算力基础设施的供给与全周期配套服务，为各行业客户提供高端工作站、企业级服务器等核心算力产品的一站式解决方案。
+
+公司核心团队拥有近二十年国内外高端电子科技产品的经营与技术服务积淀，曾深度服务国内头部科技企业工程师团队，提供专业的产品技术指导与场景化配套方案。团队拥有大量真实落地的企业服务案例，形成了覆盖选型适配、交付跟进、资源协调的标准化服务体系，专业能力历经头部客户与复杂项目的双重验证。
+
+公司手握算力行业核心上游资源，具备稀缺的产能调度优势，拥有英伟达 OEM 体系核心渠道资源，可协助客户优先锁定排产额度、获取产能配额，大幅压缩高端算力设备的交付周期，助力客户快速完成算力资源部署。
+<img width="4707" height="232" alt="图片" src="https://github.com/user-attachments/assets/63d1661f-ec6b-4e12-9ab3-bf410d229645" />
+
+
 
 
 <img width="1165" height="552" alt="图片" src="https://github.com/user-attachments/assets/e3174e1d-9217-4caa-bc86-4f58c83d7110" />
 
 
-## 产品简介
-- 服务器型号：英伟达B300
-- 核心配置：英伟达 B300 GPU × 256台
-- 适用场景：大模型训练、推理、AI 计算等
-- 主要优势：
-高性能、稳定性好、售后响应快
 
 ## 我们的服务
 <img width="1289" height="475" alt="图片" src="https://github.com/user-attachments/assets/de94c7ee-82f9-4e96-964f-f600de54ce5e" />
@@ -20,8 +20,8 @@
 
 
 ## 客户案例
-- 某科技公司使用我们的 B300 服务器完成大模型推理部署
-- （后续有真实案例再补充）
+<img width="1164" height="460" alt="图片" src="https://github.com/user-attachments/assets/8d460508-92b8-4e3d-8f1f-6cc911b1b5cf" />
+
 
 ## 核心保密条款
 <img width="1036" height="490" alt="图片" src="https://github.com/user-attachments/assets/76739205-cab1-4331-b86f-d1373d8c44b4" />
