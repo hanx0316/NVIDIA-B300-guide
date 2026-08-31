@@ -20,8 +20,8 @@
       <th width="50">货源</th>
       <th width="80">货源地</th>
       <th width="90">产品</th>
-      <th width="100">单价</th>
-      <th width="90">数量要求</th>
+      <th width="105">单价</th>
+      <th width="100">数量要求</th>
       <th width="280">主要交易条件</th>
       <th width="120">结算方式</th>
       <th width="120">备注</th>
