@@ -1,6 +1,8 @@
 # 英伟达 B300 服务器技术文档
 
-欢迎使用我们的英伟达 B300 服务器技术支持文档。
+欢迎使用我们提供的英伟达服务器服务，专注于高端 AI 算力供应链领域的全球化综合服务商
+<img width="789" height="72" alt="图片" src="https://github.com/user-attachments/assets/f2d48834-fb94-4546-8faa-2e66981153d6" />
+
 
 <img width="1165" height="552" alt="图片" src="https://github.com/user-attachments/assets/e3174e1d-9217-4caa-bc86-4f58c83d7110" />
 
@@ -12,14 +14,9 @@
 - 主要优势：
 高性能、稳定性好、售后响应快
 
-## 快速开始
-1. 服务器到货后请先检查外观和配件是否齐全
-2. 按照《快速部署手册》完成上架和通电
-3. 安装驱动和基础环境（详见下方文档）
-4. 如有问题，请联系我们技术支持
+## 我们的服务
+<img width="1289" height="475" alt="图片" src="https://github.com/user-attachments/assets/de94c7ee-82f9-4e96-964f-f600de54ce5e" />
 
-## 文档下载
-- [公司介绍 PDF](汉兴科技HANX介绍.pdf)
 
 
 ## 客户案例
@@ -29,6 +26,11 @@
 ## 核心保密条款
 <img width="1036" height="490" alt="图片" src="https://github.com/user-attachments/assets/76739205-cab1-4331-b86f-d1373d8c44b4" />
 
+
+## 服务区域
+汉兴科技在全球多个核心城市布局战略合作伙伴，在上海、深圳设有自有采购与商务团队，在马来西亚、新加坡等地设有落地运营合作网点，可快速响应客户全球算力基建部署需求，助力客户搭建全球化算力合作资源体系
+
+<img width="3274" height="70" alt="图片" src="https://github.com/user-attachments/assets/a9c64f34-d45a-483a-8e94-958277ecd613" />
 
 ## 获取完整资料 / 商务合作
 如果您是真实采购需求，想获取：
